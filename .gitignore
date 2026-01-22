@@ -11,10 +11,6 @@ yarn-error.log*
 # Dependency directories
 jspm_packages/
 
-# Production
-build/
-dist/
-
 # Misc
 .DS_Store
 .env

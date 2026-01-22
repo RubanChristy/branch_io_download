@@ -3,7 +3,7 @@ import './App.css';
 
 const App = () => {
   const handleDownload = () => {
-    window.location.href = 'http://35.154.10.237/AeseraJewels/AppBuild/AeseraJewel_020925.apk';
+    window.location.href = 'http://23.21.2.75/AppBuild/chottureco.apk';
   };
 
   return (
